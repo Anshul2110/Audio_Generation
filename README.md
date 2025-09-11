@@ -1,2 +1,3 @@
-# Lakh MIDI Dataset Clean
+# Audio generation using GNU for faster processin
+
  
